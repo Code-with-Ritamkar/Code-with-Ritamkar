@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="370"
-src="https://github.com/user-attachments/assets/ec693a5b-eb51-4ee9-91e5-c56f0042440b"
+src="https://github.com/user-attachments/assets/aa5db8ff-395a-40e7-a180-9fe9a73f83cf"
 style="margin-left: 50px; border-radius: 10px;">
 
 ### Hi 👋, I am **Ritamkar Sarkar**
